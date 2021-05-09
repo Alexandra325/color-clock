@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  height: 100%;
+  color: silver;
+}
+
+#clock {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  font-family: Rajdhani, sans-serif;
+  font-size: 82px;
+  margin-top: -41px;
+}
